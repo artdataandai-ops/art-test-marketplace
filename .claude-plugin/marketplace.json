@@ -1,0 +1,11 @@
+{
+  "name": "art-test-marketplace",
+  "owner": { "name": "ART Technology" },
+  "plugins": [
+    {
+      "name": "standup-tools",
+      "source": "./plugins/standup-tools",
+      "description": "Test plugin: formats daily standup updates"
+    }
+  ]
+}

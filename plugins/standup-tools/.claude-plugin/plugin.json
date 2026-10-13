@@ -1,0 +1,6 @@
+{
+  "name": "standup-tools",
+  "description": "Test plugin: formats rough notes into a clean daily standup update",
+  "version": "1.0.0",
+  "author": { "name": "Art" }
+}
